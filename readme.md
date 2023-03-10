@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A curated list of custom widgets, resources, integrations, and projects made with/for iced
+A curated list of custom widgets, resources, integrations, and projects made with/for iced.
 
 <!-- image -->
 
@@ -35,22 +35,19 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 ## Custom Widgets
 
-- [List item](http://example.com)
+- [iced_aw](https://github.com/iced-rs/iced_aw) - An assortment of additional widgets
+- [iced_audio](https://github.com/iced-rs/iced_audio) - Widgets for audio applications such as VST / LV2 plugins
 
 
-## Example Projects
-
-- [List item](http://example.com)
+## Projects Using Iced
 
 
 ## Integrations
 
-- [List item](http://example.com)
 
 
 ## Resources
 
-- [List item](http://example.com)
 
 <!-- END CONTENT -->
 
