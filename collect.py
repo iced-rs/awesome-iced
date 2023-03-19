@@ -1,5 +1,6 @@
 from pathlib import Path
 from collections import defaultdict
+import httpx
 
 # TODO: Run ghtodep at the start of the script
 # Using a manual data dump for now - Generated with pipx run ghtopdep https://github.com/iced-rs/iced --rows 50 --json
@@ -59,12 +60,12 @@ items = [
 all_urls = [d["url"] for d in items]
 
 readme_file = Path().cwd().joinpath("readme.md")
-mkdown_text = readme_file.read_text(encoding="UTF-8")
+mkdown_text = readme_file.read_text(encoding="utf-8")
 
 content_start = mkdown_text.find("<!-- CONTENT -->")
 content_end = mkdown_text.find("<!-- END CONTENT -->")
 content_lines = mkdown_text[content_start:content_end].splitlines()
-precontent = mkdown_text[:content_start]
+precontent = mkdown_text[:content_start+len("<!-- CONTENT -->")+2]
 postcontent = mkdown_text[content_end:]
 
 proj_types = []
@@ -74,6 +75,7 @@ for line in content_lines:
     if not line:
         continue
     if line.startswith("##"):
+        _ = cur_lines_by_proj[cur_type]
         cur_type = line[3:]
         proj_types.append(cur_type)
     elif cur_type:
@@ -90,11 +92,13 @@ if ITERATE:
     completed = defaultdict(list)
     for url in unused_urls:
         proj_name = url.split("/")[-1]
+        proj_owner = url.split("/")[-2]
 
         print("\n-----")
         print(f"{proj_name}: {url}")
 
         try:
+            # Get project name
             while True:
                 try:
                     print("Available Project Types:")
@@ -108,20 +112,36 @@ if ITERATE:
                     raise KeyboardInterrupt()
                 except:
                     continue
+
+            # Get Description
             description = input("Description: ")
             if description[-1] != ".":
                 description += "."
-            completed[proj_type].append(f"- [{proj_name}]({url}) - {description}")
+
+            # Get iced version
+            iced_version = input("Iced version used: ")
+
+            print(f"Iced @{iced_version}")
+
+            version_badge = f"![iced v{iced_version}](https://img.shields.io/badge/{iced_version}-blue?logo=iced&style=plastic)"
+
+            completed[proj_type].append(f"- [{proj_name}]({url}){version_badge} - {description}")
             print("-----\n")
-        except:
+        except Exception as e:
+            print("Exception: ", e)
+            break
+        except KeyboardInterrupt:
             break
     print("\n")
 
     # Combine existing list items with the ones we've just created
     for proj_type, list_items in cur_lines_by_proj.items():
+        print(proj_type, list_items)
         completed[proj_type].extend(list_items)
 
+    completed.pop(None)
     # Write content to file
+    print(f"Adding {len(list_items)} new entries")
     new_content = ""
     for proj_type, list_items in completed.items():
         new_content += f"## {proj_type}\n\n"
@@ -131,4 +151,4 @@ if ITERATE:
         new_content += "\n\n"
     print(new_content)
 
-    mkdown_text.write_text(precontent + new_content + postcontent)
+    readme_file.write_text(precontent + new_content + postcontent)
