@@ -125,7 +125,7 @@ if ITERATE:
 
             version_badge = f"![iced v{iced_version}](https://img.shields.io/badge/{iced_version}-blue?logo=iced&style=plastic)"
 
-            completed[proj_type].append(f"- [{proj_name}]({url}){version_badge} - {description}")
+            completed[proj_type].append(f"- {version_badge}[{proj_name}]({url}) - {description}")
             print("-----\n")
         except Exception as e:
             print("Exception: ", e)
