@@ -1,10 +1,3 @@
-<style>
-img.badge {
-  vertical-align: sub;
-  padding-right: 7px;
-}
-</style>
-
 <div align="center">
 
 <!-- title -->
@@ -28,6 +21,13 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 [iced](https://github.com/iced-rs/iced) is a cross-platform GUI library for Rust focused on simplicity and type-safety inspired by [Elm](https://elm-lang.org/).
 
 </div>
+
+<style>
+img.badge {
+  vertical-align: sub;
+  padding-right: 7px;
+}
+</style>
 
 <!-- TOC -->
 
