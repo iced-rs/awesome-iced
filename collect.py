@@ -122,8 +122,7 @@ if ITERATE:
             iced_version = input("Iced version used: ")
 
             print(f"Iced @{iced_version}")
-
-            version_badge = f"![iced v{iced_version}](https://img.shields.io/badge/{iced_version}-blue?logo=iced&style=plastic)"
+            version_badge = f'<img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/{iced_version}-blue?logo=iced&style=plastic">'
 
             completed[proj_type].append(f"- {version_badge}[{proj_name}]({url}) - {description}")
             print("-----\n")
