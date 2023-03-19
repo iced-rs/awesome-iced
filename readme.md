@@ -22,13 +22,6 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 </div>
 
-<style>
-img.badge {
-  vertical-align: sub;
-  padding-right: 7px;
-}
-</style>
-
 <!-- TOC -->
 
 ## Contents
