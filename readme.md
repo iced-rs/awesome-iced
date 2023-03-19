@@ -26,8 +26,8 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 ## Contents
 
+- [Projects Using Iced](#example-projects)
 - [Custom Widgets](#custom-widgets)
-- [Example Projects](#example-projects)
 - [Integrations](#integrations)
 - [Resources](#resources)
 
