@@ -73,7 +73,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 ## Integrations
 
-- <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">[Cosmic Time](https://github.com/pop-os/cosmic-time) - An animation toolkit.
+- <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">[Cosmic Time](https://github.com/pop-os/cosmic-time) - An animation toolkit.
 - <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">[anim-rs](https://github.com/Joylei/anim-rs) - Framework-independent animation library. Has integrations for iced.
 - <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.7-blue?logo=iced&style=plastic">[bevy_iced](https://github.com/tasgon/bevy_iced) - Use iced apps in your [Bevy](https://github.com/bevyengine/bevy/) application.
 - <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">[nih-plug](https://github.com/robbert-vdh/nih-plug) - A framework for creating VST3 and CLAP plugins with an iced frontend.
