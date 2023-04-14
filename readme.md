@@ -83,7 +83,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 - [iced_audio](https://github.com/iced-rs/iced_audio) - Widgets for audio applications such as VST / LV2 plugins
 - [iced_aw](https://github.com/iced-rs/iced_aw) - An assortment of additional widgets
-- <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">[iced_gif](https://github.com/tarkah/iced_gif) - A gif widget for iced
+- <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">[iced_gif](https://github.com/tarkah/iced_gif) - A gif widget for iced
 - <img style="vertical-align: sub; padding-right: 7px" src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">[iced_video_player](https://github.com/jazzfool/iced_video_player) - Composable component to play videos in an iced app leveraging GStreamer.
 
 
