@@ -48,6 +48,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[enclone](https://github.com/10XGenomics/enclone) - Accurate and user-friendly computational tool for clonal grouping to study the adaptive immune system.
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[ESLauncher2](https://github.com/EndlessSkyCommunity/ESLauncher2) - A launcher for [Endless Sky](https://endless-sky.github.io/).
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[Fuzzr](https://github.com/FuzzrNet/Fuzzr) - a P2P platform for publishing, curating, and browsing content.
+- <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[Halloy](https://github.com/squidowl/halloy) - An open-source IRC client
 - <img src="https://img.shields.io/badge/0.7-blue?logo=iced&style=plastic">&ensp;[liana](https://github.com/wizardsardine/liana) - A Bitcoin wallet with a unique 'safety net' - a timelocked recovery path for all of your coins.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[linkage](https://github.com/linkage-rs/linkage) - A typing tutor.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up PC game save data.
