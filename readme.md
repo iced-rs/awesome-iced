@@ -37,6 +37,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[Airshipper](https://github.com/veloren/Airshipper) - The official launcher for Veloren.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Animated GIF Maker](https://github.com/BB-301/rust-iced-gif-maker) - A simple FFmpeg-based animated GIF generator application built using Iced.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[bl3_save_edit](https://github.com/ZakisM/bl3_save_edit) - A Borderlands 3 Save/Profile editor.
 - <img src="https://img.shields.io/badge/0.6-blue?logo=iced&style=plastic">&ensp;[cosmic-applets](https://github.com/pop-os/cosmic-applets) - WIP applets for cosmic-panel.
 - <img src="https://img.shields.io/badge/0.6-blue?logo=iced&style=plastic">&ensp;[cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment.
@@ -52,6 +53,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.7-blue?logo=iced&style=plastic">&ensp;[liana](https://github.com/wizardsardine/liana) - A Bitcoin wallet with a unique 'safety net' - a timelocked recovery path for all of your coins.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[linkage](https://github.com/linkage-rs/linkage) - A typing tutor.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up PC game save data.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Material Icon Browser](https://github.com/BB-301/iced-material-icon-browser) - A simple application that allows browsing the full list of regular Material Icons.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[microlaunch](https://github.com/eorzeatools/microlaunch) - A native linux launcher for Final Fantasy XIV Online.
 - <img src="https://img.shields.io/badge/0.6-blue?logo=iced&style=plastic">&ensp;[Neothesia](https://github.com/PolyMeilex/Neothesia) - 0.6.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[OctaSine](https://github.com/greatest-ape/OctaSine) - Cross-platform FM Synth plugin (VST2 & CLAP). Uses iced for its GUI.
