@@ -37,6 +37,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[Airshipper](https://github.com/veloren/Airshipper) - The official launcher for Veloren.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) - An open source desktop application for Amphitheatre.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Animated GIF Maker](https://github.com/BB-301/rust-iced-gif-maker) - A simple FFmpeg-based animated GIF generator application built using Iced.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[bl3_save_edit](https://github.com/ZakisM/bl3_save_edit) - A Borderlands 3 Save/Profile editor.
 - <img src="https://img.shields.io/badge/0.6-blue?logo=iced&style=plastic">&ensp;[cosmic-applets](https://github.com/pop-os/cosmic-applets) - WIP applets for cosmic-panel.
