@@ -48,32 +48,31 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[Cryptowatch Desktop](https://cryptowat.ch/apps/desktop) - Fully customizable Crypto trading terminal.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[elysium](https://github.com/ka1mari/elysium) - A CSGO client for Linux.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[enclone](https://github.com/10XGenomics/enclone) - Accurate and user-friendly computational tool for clonal grouping to study the adaptive immune system.
-- <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[ESLauncher2](https://github.com/EndlessSkyCommunity/ESLauncher2) - A launcher for [Endless Sky](https://endless-sky.github.io/).
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[ESLauncher2](https://github.com/EndlessSkyCommunity/ESLauncher2) - A launcher for [Endless Sky](https://endless-sky.github.io/).
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[Fuzzr](https://github.com/FuzzrNet/Fuzzr) - a P2P platform for publishing, curating, and browsing content.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[Halloy](https://github.com/squidowl/halloy) - An open-source IRC client.
-- <img src="https://img.shields.io/badge/0.7-blue?logo=iced&style=plastic">&ensp;[liana](https://github.com/wizardsardine/liana) - A Bitcoin wallet with a unique 'safety net' - a timelocked recovery path for all of your coins.
+- <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[liana](https://github.com/wizardsardine/liana) - A Bitcoin wallet with a unique 'safety net' - a timelocked recovery path for all of your coins.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[linkage](https://github.com/linkage-rs/linkage) - A typing tutor.
-- <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up PC game save data.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up PC game save data.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Material Icon Browser](https://github.com/BB-301/iced-material-icon-browser) - A simple application that allows browsing the full list of regular Material Icons.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[microlaunch](https://github.com/eorzeatools/microlaunch) - A native linux launcher for Final Fantasy XIV Online.
 - <img src="https://img.shields.io/badge/0.6-blue?logo=iced&style=plastic">&ensp;[Neothesia](https://github.com/PolyMeilex/Neothesia) - 0.6.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[OctaSine](https://github.com/greatest-ape/OctaSine) - Cross-platform FM Synth plugin (VST2 & CLAP). Uses iced for its GUI.
-- <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[offline-chess-puzzles](https://github.com/brianch/offline-chess-puzzles) - View and solve puzzles from the lichess puzzle database.
-- <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[onagre](https://github.com/oknozor/onagre) - General purpose application launcher for X and wayland inspired by rof/wofi and alfred.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[offline-chess-puzzles](https://github.com/brianch/offline-chess-puzzles) - View and solve puzzles from the lichess puzzle database.
+- <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[onagre](https://github.com/oknozor/onagre) - General purpose application launcher for X and wayland inspired by rof/wofi and alfred.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag) - Vehicle ECU diagnostic platform and car 'hacking' .
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[revault-gui](https://github.com/revault/revault-gui) - GUI for the [Revault daemon](https://github.com/revault/revaultd), a Bitcoin valut architecture.
-- <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[SimpleRenamer](https://github.com/Inspirateur/SimpleRenamer) - A simple and smart bulk file renamer.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[slimevr-wrangler](https://github.com/carl-anders/slimevr-wrangler) - An app that lets you use Joy-Cons as SlimeVR trackers, enabling you to make a full body tracking system!.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[smmdb-client](https://github.com/Tarnadas/smmdb-client) - Save file editor for Super Mario Maker 2.
-- <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[sniffnet](https://github.com/GyulyVGC/sniffnet) - A network traffic monitoring tool.
-- <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[super_clipboard](https://github.com/SergioRibera/super_clipboard) - A clipboard manager.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[sniffnet](https://github.com/GyulyVGC/sniffnet) - A network traffic monitoring tool.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[super_clipboard](https://github.com/SergioRibera/super_clipboard) - A clipboard manager.
 - <img src="https://img.shields.io/badge/0.2-blue?logo=iced&style=plastic">&ensp;[tolstack](https://github.com/aevyrie/tolstack) - 1D tolerance analysis tool.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Debloat non-rooted Android devices using ADB.
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[veloren](https://github.com/veloren/veloren) - Multiplayer voxel RPG written in Rust. Uses iced for its default graphical client frontend.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[VirtualDesktopAccessor](https://github.com/Ciantic/VirtualDesktopAccessor) - DLL for accessing Windows 11/10 Virtual Desktop features from 3rd party tools such as AutoHotkey.
-- <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[wooting-analog-sdk](https://github.com/WootingKb/wooting-analog-sdk) - An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.
-- <img src="https://img.shields.io/badge/0.7-blue?logo=iced&style=plastic">&ensp;[yt-dl-gui](https://github.com/hristogochev/youtube-dl-gui) - A GUI for youtube-dl.
-- <img src="https://img.shields.io/badge/0.7-blue?logo=iced&style=plastic">&ensp;[ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) - A GUI for yt-dlp, a fork of youtube-dl with additional features.
+- <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[wooting-analog-sdk](https://github.com/WootingKb/wooting-analog-sdk) - An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.
+- <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[yt-dl-gui](https://github.com/hristogochev/youtube-dl-gui) - A GUI for youtube-dl.
+- <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) - A GUI for yt-dlp, a fork of youtube-dl with additional features.
 
 ## Integrations
 
@@ -87,7 +86,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 - [iced_audio](https://github.com/iced-rs/iced_audio) - Widgets for audio applications such as VST / LV2 plugins
 - [iced_aw](https://github.com/iced-rs/iced_aw) - An assortment of additional widgets
-- <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[iced_gif](https://github.com/tarkah/iced_gif) - A gif widget for iced
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[iced_gif](https://github.com/tarkah/iced_gif) - A gif widget for iced
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[iced_video_player](https://github.com/jazzfool/iced_video_player) - Composable component to play videos in an iced app leveraging GStreamer.
 - [Prettygooey](https://github.com/pieterdd/prettygooey) - Themed UI components for iced
 
