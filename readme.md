@@ -62,7 +62,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[onagre](https://github.com/oknozor/onagre) - General purpose application launcher for X and wayland inspired by rof/wofi and alfred.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag) - Vehicle ECU diagnostic platform and car 'hacking' .
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[revault-gui](https://github.com/revault/revault-gui) - GUI for the [Revault daemon](https://github.com/revault/revaultd), a Bitcoin valut architecture.
-- <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[slimevr-wrangler](https://github.com/carl-anders/slimevr-wrangler) - An app that lets you use Joy-Cons as SlimeVR trackers, enabling you to make a full body tracking system!.
+- <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[slimevr-wrangler](https://github.com/carl-anders/slimevr-wrangler) - An app that lets you use Joy-Cons as SlimeVR trackers, enabling you to make a full body tracking system!.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[smmdb-client](https://github.com/Tarnadas/smmdb-client) - Save file editor for Super Mario Maker 2.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[sniffnet](https://github.com/GyulyVGC/sniffnet) - A network traffic monitoring tool.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[super_clipboard](https://github.com/SergioRibera/super_clipboard) - A clipboard manager.
@@ -78,9 +78,9 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 - <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic">&ensp;[Cosmic Time](https://github.com/pop-os/cosmic-time) - An animation toolkit.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[anim-rs](https://github.com/Joylei/anim-rs) - Framework-independent animation library. Has integrations for iced.
-- <img src="https://img.shields.io/badge/0.7-blue?logo=iced&style=plastic">&ensp;[bevy_iced](https://github.com/tasgon/bevy_iced) - Use iced apps in your [Bevy](https://github.com/bevyengine/bevy/) application.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[bevy_iced](https://github.com/tasgon/bevy_iced) - Use iced apps in your [Bevy](https://github.com/bevyengine/bevy/) application.
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[nih-plug](https://github.com/robbert-vdh/nih-plug) - A framework for creating VST3 and CLAP plugins with an iced frontend.
-- <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[plotters-iced](https://github.com/Joylei/plotters-iced) - An iced backend for the [plotters library](https://github.com/plotters-rs/plotters) for both native and wasm applications.
+- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[plotters-iced](https://github.com/Joylei/plotters-iced) - An iced backend for the [plotters library](https://github.com/plotters-rs/plotters) for both native and wasm applications.
 
 ## Custom Widgets
 
