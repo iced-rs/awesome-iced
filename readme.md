@@ -89,6 +89,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[iced_gif](https://github.com/tarkah/iced_gif) - A gif widget for iced
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[iced_video_player](https://github.com/jazzfool/iced_video_player) - Composable component to play videos in an iced app leveraging GStreamer.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Prettygooey](https://github.com/pieterdd/prettygooey) - Themed UI components for iced
+- <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> &ensp;[iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend. 
 
 ## Resources
 
