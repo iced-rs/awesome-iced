@@ -55,6 +55,7 @@ items = [
     {"url": "https://github.com/DankBSD/waysmoke", "stars": 31},
     {"url": "https://github.com/ka1mari/elysium", "stars": 29},
     {"url": "https://github.com/tasgon/bevy_iced", "stars": 29},
+    {"url": "https://github.com/waycrate/exwlshelleventloop", "stars": 3},
 ]
 
 all_urls = [d["url"] for d in items]
