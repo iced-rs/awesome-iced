@@ -45,7 +45,6 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - Frontend for [Pop Launcher](https://github.com/pop-os/launcher), a modular IPC-based dekstop launcher service.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-settings](https://github.com/pop-os/cosmic-settings) - The settings app for COSMIC dekstop environment.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-text-editor](https://github.com/pop-os/cosmic-text-editor) - WIP text editor for the COSMIC desktop environment.
-- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[Cryptowatch Desktop](https://cryptowat.ch/apps/desktop) - Fully customizable Crypto trading terminal.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[enclone](https://github.com/10XGenomics/enclone) - Accurate and user-friendly computational tool for clonal grouping to study the adaptive immune system.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[ESLauncher2](https://github.com/EndlessSkyCommunity/ESLauncher2) - A launcher for [Endless Sky](https://endless-sky.github.io/).
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[Fuzzr](https://github.com/FuzzrNet/Fuzzr) - a P2P platform for publishing, curating, and browsing content.
