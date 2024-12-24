@@ -42,8 +42,8 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[bl3_save_edit](https://github.com/ZakisM/bl3_save_edit) - A Borderlands 3 Save/Profile editor.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-applets](https://github.com/pop-os/cosmic-applets) - WIP applets for cosmic-panel.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment.
-- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - Frontend for [Pop Launcher](https://github.com/pop-os/launcher), a modular IPC-based dekstop launcher service.
-- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-settings](https://github.com/pop-os/cosmic-settings) - The settings app for COSMIC dekstop environment.
+- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - Frontend for [Pop Launcher](https://github.com/pop-os/launcher), a modular IPC-based desktop launcher service.
+- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-settings](https://github.com/pop-os/cosmic-settings) - The settings app for COSMIC desktop environment.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-text-editor](https://github.com/pop-os/cosmic-text-editor) - WIP text editor for the COSMIC desktop environment.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[Cryptowatch Desktop](https://cryptowat.ch/apps/desktop) - Fully customizable Crypto trading terminal.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[enclone](https://github.com/10XGenomics/enclone) - Accurate and user-friendly computational tool for clonal grouping to study the adaptive immune system.
