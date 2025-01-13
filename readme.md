@@ -99,6 +99,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[Build a simple frontend web app.](https://blog.logrocket.com/iced-rs-tutorial-rust-frontend-web-app/)
 - [How to use custom themes in iced (video tutorial).](https://www.youtube.com/watch?v=Bl02RY3FXJU)
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[An unofficial tutorial.](https://github.com/fogarecious/iced_tutorial/blob/main/README.md)
+- [Unofficial Iced Guide](https://jl710.github.io/iced-guide/)
 
 <!-- END CONTENT -->
 
