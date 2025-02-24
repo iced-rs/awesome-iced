@@ -73,6 +73,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[yt-dl-gui](https://github.com/hristogochev/youtube-dl-gui) - A GUI for youtube-dl.
 - <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic">&ensp;[ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) - A GUI for yt-dlp, a fork of youtube-dl with additional features.
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[iced_layershell](https://github.com/waycrate/exwlshelleventloop) - Layershell binding for iced
+- [fileshare](https://github.com/Tomyyy-1337/fileshare) - A file sharing server for high speed file transfer with no middleman.
 
 ## Integrations
 
