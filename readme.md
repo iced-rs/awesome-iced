@@ -35,6 +35,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 ## Projects Using iced
 
+- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[Kraken Desktop](https://www.kraken.com/desktop) - A supercharged trading station.
 - <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic">&ensp;[Airshipper](https://github.com/veloren/Airshipper) - The official launcher for Veloren.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[ajour](https://github.com/ajour/ajour) - A World of Warcraft addon manager.
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) - An open source desktop application for Amphitheatre.
