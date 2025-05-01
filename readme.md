@@ -89,7 +89,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[iced_gif](https://github.com/tarkah/iced_gif) - A gif widget for iced
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[iced_video_player](https://github.com/jazzfool/iced_video_player) - Composable component to play videos in an iced app leveraging GStreamer.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Prettygooey](https://github.com/pieterdd/prettygooey) - Themed UI components for iced
-- <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> &ensp;[iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend. 
+- <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> &ensp;[iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
 
 ## Resources
 
@@ -98,7 +98,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[GUIs in Rust with iced (An on-going series).](https://nikolish.in/gs-with-iced-1)
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[Build a simple frontend web app.](https://blog.logrocket.com/iced-rs-tutorial-rust-frontend-web-app/)
 - [How to use custom themes in iced (video tutorial).](https://www.youtube.com/watch?v=Bl02RY3FXJU)
-- <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[An unofficial tutorial.](https://github.com/fogarecious/iced_tutorial/blob/main/README.md)
+- <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[An unofficial tutorial.](https://github.com/fogarecious/iced_tutorial/blob/main/README.md)
 - [Unofficial Iced Guide](https://jl710.github.io/iced-guide/)
 
 <!-- END CONTENT -->
