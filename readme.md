@@ -73,6 +73,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[yt-dl-gui](https://github.com/hristogochev/youtube-dl-gui) - A GUI for youtube-dl.
 - <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic">&ensp;[ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) - A GUI for yt-dlp, a fork of youtube-dl with additional features.
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[iced_layershell](https://github.com/waycrate/exwlshelleventloop) - Layershell binding for iced
+- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> &ensp;[Frostbyte Terminal](https://github.com/Rahn-IT/frostbyte_terminal) - Yakuake inspired dropdown terminal emulator. Supports X11, Wayland and Windows.
 
 ## Integrations
 
@@ -90,6 +91,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[iced_video_player](https://github.com/jazzfool/iced_video_player) - Composable component to play videos in an iced app leveraging GStreamer.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Prettygooey](https://github.com/pieterdd/prettygooey) - Themed UI components for iced
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> &ensp;[iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
+- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> &ensp;[frozen_term](https://github.com/Rahn-IT/frostbyte_terminal/tree/master/frozen_term) - Terminal emulator component based on wezterm and combatible with any datastream.
 
 ## Resources
 
