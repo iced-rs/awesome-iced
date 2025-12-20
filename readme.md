@@ -94,6 +94,8 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Prettygooey](https://github.com/pieterdd/prettygooey) - Themed UI components for iced
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> &ensp;[iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> &ensp;[frozen_term](https://github.com/Rahn-IT/frostbyte_terminal/tree/master/frozen_term) - Terminal emulator component based on wezterm and combatible with any datastream.
+- <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> &ensp;[iced_code_editor](https://github.com/LuDog71FR/iced-code-editor) - A fully-featured code editor widget with syntax highlighting, line numbers, text selection, and comprehensive keyboard navigation.
+
 
 ## Resources
 
