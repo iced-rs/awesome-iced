@@ -58,6 +58,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[OctaSine](https://github.com/greatest-ape/OctaSine) - Cross-platform FM Synth plugin (VST2 & CLAP). Uses iced for its GUI.
 - <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic">&ensp;[offline-chess-puzzles](https://github.com/brianch/offline-chess-puzzles) - View and solve puzzles from the lichess puzzle database.
 - <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic">&ensp;[onagre](https://github.com/oknozor/onagre) - General purpose application launcher for X and wayland inspired by rof/wofi and alfred.
+- <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic">&ensp;[OneTalker](https://codeberg.org/OneTalker/OneTalker) - An Augmentative and Alternative Communication (AAC) Aid/Device for Ben and others.
 - <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic">&ensp;[OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag) - Vehicle ECU diagnostic platform and car 'hacking' .
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[Raspirus](https://github.com/Raspirus/Raspirus) - A user- and resources-friendly rules-based malware scanner.
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[revault-gui](https://github.com/revault/revault-gui) - GUI for the [Revault daemon](https://github.com/revault/revaultd), a Bitcoin valut architecture.
