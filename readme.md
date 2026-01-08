@@ -40,6 +40,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) - An open source desktop application for Amphitheatre.
 - <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic">&ensp;[Animated GIF Maker](https://github.com/BB-301/rust-iced-gif-maker) - A simple FFmpeg-based animated GIF generator application built using Iced.
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[bl3_save_edit](https://github.com/ZakisM/bl3_save_edit) - A Borderlands 3 Save/Profile editor.
+- <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic">&ensp;[Cfait](https://codeberg.org/trougnouf/cfait) - TODO / task manager (CalDAV and local).
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-applets](https://github.com/pop-os/cosmic-applets) - WIP applets for cosmic-panel.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment.
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">&ensp;[cosmic-launcher](https://github.com/pop-os/cosmic-launcher) - Frontend for [Pop Launcher](https://github.com/pop-os/launcher), a modular IPC-based desktop launcher service.
