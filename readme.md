@@ -78,6 +78,9 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> &ensp;[Frostbyte Terminal](https://github.com/Rahn-IT/frostbyte_terminal) - Yakuake inspired dropdown terminal emulator. Supports X11, Wayland and Windows.
 - <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic">&ensp;[EdgeCrafter](https://codeberg.org/rickykresslein/edgecrafter) - A free and private trading journal with broker auto-sync
 - <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic">&ensp;[Furtherance](https://github.com/unobserved-io/Furtherance) - A privacy-focused time-tracking app and pomodoro timer
+- <img src="https://img.shields.io/badge/0.3.0-blue?logo=iced&style=plastic">&ensp;[ClearMyC](https://github.com/RockeyDon/ClearMyC) - A one-click tool to clear C drive
+
+https://github.com/RockeyDon/ClearMyC
 
 ## Integrations
 
