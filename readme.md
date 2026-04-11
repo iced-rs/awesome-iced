@@ -73,6 +73,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 - <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic">&ensp;[wooting-analog-sdk](https://github.com/WootingKb/wooting-analog-sdk) - An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.
 - <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic">&ensp;[XMODITS](https://github.com/B0ney/xmodits) - A tool to bulk extract samples from tracker modules.
 - <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic">&ensp;[yt-dl-gui](https://github.com/hristogochev/youtube-dl-gui) - A GUI for youtube-dl.
+- <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic">&ensp;[slio-git](https://github.com/sk-wang/slio-git) - A native Git GUI client inspired by JetBrains IDEA, with diff viewer, branch management, conflict resolver and interactive rebase editor.
 - <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic">&ensp;[ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) - A GUI for yt-dlp, a fork of youtube-dl with additional features.
 - <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic">&ensp;[iced_layershell](https://github.com/waycrate/exwlshelleventloop) - Layershell binding for iced
 - <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> &ensp;[Frostbyte Terminal](https://github.com/Rahn-IT/frostbyte_terminal) - Yakuake inspired dropdown terminal emulator. Supports X11, Wayland and Windows.
